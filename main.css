@@ -1,0 +1,26 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover,
+.link:active {
+  color: rgb(194, 30, 30);
+}
+
+.logo {
+  width: 20%;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
